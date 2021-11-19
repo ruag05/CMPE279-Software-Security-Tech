@@ -4,7 +4,7 @@
 Ruchir Agarwal - 015237469 <br>
 Jayant Prakash - 015276521
 
-## Assignment 1
+## Assignment 1 and Assignment 2
 ### Steps to run
 #### Server terminal
 * sudo gcc server.c -o server
